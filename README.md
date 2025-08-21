@@ -49,9 +49,9 @@ I'm a data scientist with a unique mix of skills in data analysis, statistics, c
 ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=for-the-badge&logo=d3.js&logoColor=white)
 
 ## 📊 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=ahmadalikhan02&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ahmadalikhan02&theme=merko&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadalikhan02&theme=merko&hide_border=false&layout=compact)  
+![](https://github-readme-stats.vercel.app/api?username=AHMAD-ALYY&theme=merko&hide_border=false&include_all_commits=true&count_private=true)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=AHMAD-ALYY&theme=merko&hide_border=false)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AHMAD-ALYY&theme=merko&hide_border=false&layout=compact)  
 
 ##
 <br>
